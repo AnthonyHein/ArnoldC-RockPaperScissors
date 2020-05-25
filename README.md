@@ -3,5 +3,4 @@ A simple rock paper scissors game coded in ArnoldC. Can be played with another p
 
 # Run
 $ java -jar ArnoldC.jar rockpaperscissor.arnoldc
-  
 $ java rockpaperscissor
